@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.uni-mannheim.rz.krum:jas:2.6.5988">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-mannheim/rz/krum/jas/2.6.5988/jas-2.6.5988.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-mannheim/rz/krum/jas/2.6.5988/jas-2.6.5988-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-mannheim/rz/krum/jas/2.6.5988/jas-2.6.5988-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

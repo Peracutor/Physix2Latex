@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="2" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+          <option name="coroutinesWarn" value="true" />
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="TornadoFX" name="TornadoFX">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: no.tornado:tornadofx:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: no.tornado:tornadofx:1.7.9" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.1.3-2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.1.3-2" level="project" />
+    <orderEntry type="library" name="Maven: no.tornado:tornadofx:1.7.14" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.2.21" level="project" />
+    <orderEntry type="library" name="Maven: no.tornado:tornadofx:1.7.17" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish:javax.json:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.json:javax.json-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.2.60" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test-common:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.matheclipse:matheclipse-core:1.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.atlassian.commonmark:commonmark:0.14.0" level="project" />
+    <orderEntry type="library" name="Maven: com.atlassian.commonmark:commonmark-ext-gfm-tables:0.14.0" level="project" />
+    <orderEntry type="library" name="Maven: de.uni-mannheim.rz.krum:jas:2.6.5988" level="project" />
+    <orderEntry type="library" name="Maven: org.apfloat:apfloat:1.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-android:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-core:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-clustering:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-fft:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-fitting:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-ode:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-optim:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.hipparchus:hipparchus-stat:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-csv:1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:28.2-android" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-compat-qual:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.logicng:logicng:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.itranswarp:compiler:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-core:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jheaps:jheaps:0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-io:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-text:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.gavaghan:geodesy:1.1.3" level="project" />
+  </component>
+</module>
