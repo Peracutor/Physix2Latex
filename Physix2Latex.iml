@@ -2,7 +2,7 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="2" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+      <configuration version="2" platform="JVM 1.8" useProjectSettings="false">
         <compilerSettings />
         <compilerArguments>
           <option name="jvmTarget" value="1.8" />
@@ -13,9 +13,6 @@
           </option>
           <option name="pluginClasspaths">
             <array />
-          </option>
-          <option name="errors">
-            <ArgumentParseErrors />
           </option>
           <option name="coroutinesWarn" value="true" />
         </compilerArguments>
@@ -50,17 +47,20 @@
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.2.21" level="project" />
+    <orderEntry type="library" name="Maven: org.scilab.forge:jlatexmath:1.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.scilab.forge:jlatexmath-font-greek:1.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.scilab.forge:jlatexmath-font-cyrillic:1.0.7" level="project" />
     <orderEntry type="library" name="Maven: no.tornado:tornadofx:1.7.17" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish:javax.json:1.1.2" level="project" />
     <orderEntry type="library" name="Maven: javax.json:javax.json-api:1.1.2" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.60" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.60" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.2.60" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.2.60" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.71" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.2.71" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.71" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.2.60" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test-common:1.2.60" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.2.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test-common:1.2.71" level="project" />
     <orderEntry type="library" name="Maven: org.matheclipse:matheclipse-core:1.0.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: com.atlassian.commonmark:commonmark:0.14.0" level="project" />
     <orderEntry type="library" name="Maven: com.atlassian.commonmark:commonmark-ext-gfm-tables:0.14.0" level="project" />

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.matheclipse:matheclipse-core:1.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200123.205039-934.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200126.124856-937.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200123.205039-934-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200126.124856-937-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200123.205039-934-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/matheclipse/matheclipse-core/1.0.0-SNAPSHOT/matheclipse-core-1.0.0-20200126.124856-937-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

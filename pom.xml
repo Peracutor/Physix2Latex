@@ -4,17 +4,27 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
-    <artifactId>tornadofx-maven-project</artifactId>
+    <groupId>com.eisslermicha</groupId>
+    <artifactId>physix2latex</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
+    <name>Physix2Latex</name>
+    <description>A tool to calculate the uncertainty of physical formulas.</description>
 
     <properties>
-        <kotlin.version>1.2.60</kotlin.version>
+        <jmh.version>1.19</jmh.version>
+        <kotlin.version>1.2.71</kotlin.version>
         <tornadofx.version>1.7.17</tornadofx.version>
+        <jlatexmath.version>1.0.7</jlatexmath.version>
+        <matheclipse-core.version>1.0.0-SNAPSHOT</matheclipse-core.version>
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>org.scilab.forge</groupId>
+            <artifactId>jlatexmath</artifactId>
+            <version>${jlatexmath.version}</version>
+        </dependency>
         <dependency>
             <groupId>no.tornado</groupId>
             <artifactId>tornadofx</artifactId>
@@ -22,7 +32,7 @@
         </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
-            <artifactId>kotlin-stdlib</artifactId>
+            <artifactId>kotlin-stdlib-jdk8</artifactId>
             <version>${kotlin.version}</version>
         </dependency>
         <dependency>
@@ -35,7 +45,7 @@
         <dependency>
             <groupId>org.matheclipse</groupId>
             <artifactId>matheclipse-core</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>${matheclipse-core.version}</version>
         </dependency>
     </dependencies>
 
